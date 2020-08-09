@@ -1,0 +1,372 @@
+[Debug] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Subnautica/Subnautica_Data/Mono/data-0000023C908203B0.dll
+[Debug] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Subnautica/Subnautica_Data/Mono/data-0000023C995D0080.dll
+[Debug] Initialize engine version: 2019.2.17f1 (441)
+[Debug] [XR] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Subnautica/Subnautica_Data/UnitySubsystems
+[Debug] GfxDevice: creating device client; threaded=1
+[Debug] Direct3D:
+[Debug] Version:  Direct3D 11.0 [level 11.1]
+[Debug] Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+[Debug] Vendor:
+[Debug] VRAM:     3052 MB
+[Debug] Driver:   26.20.12028.2
+[Debug] Begin MonoManager ReloadAssembly
+[Debug] - Completed reload, in  0.208 seconds
+[Warning] OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Mono/MonoScriptCache.cpp Line: 355)
+[Debug] <RI> Initializing input.
+[Debug] <RI> Input initialized.
+[Debug] <RI> Initialized touch support.
+[Debug] 
+[Debug] [Message:   BepInEx] BepInEx 5.2.0.0 - Subnautica
+[Debug] [Info   :   BepInEx] Running under Unity v2019.2.17.441
+[Debug] [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Debug] [Info   :   BepInEx] Supports SRE: True
+[Debug] [Message:   BepInEx] Preloader started
+[Debug] [Info   :   BepInEx] Loaded 1 patcher methods from MirrorInternalLogs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Debug] [Info   :   BepInEx] Loaded 1 patcher methods from QModManager.QMMHarmonyShimmer, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+[Debug] [Info   :   BepInEx] Loaded 1 patcher methods from QModManager.QModPluginGenerator, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+[Debug] [Info   :   BepInEx] Loaded 1 patcher methods from QModManager.UnityAudioFixer, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+[Debug] [Info   :   BepInEx] 5 patcher plugin(s) loaded
+[Debug] [Info   :QMMHarmonyShimmer] Shimming QMods...
+[Debug] [Info   :UnityAudioFixer] Attempting to enable Unity audio...
+[Debug] [Info   :UnityAudioFixer] Unity audio enabled.
+[Debug] [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Debug] [Message:   BepInEx] Preloader finished
+[Debug] [Message:   BepInEx] Chainloader ready
+[Debug] [Message:   BepInEx] Chainloader started
+[Debug] [Info   :   BepInEx] 11 plugins to load
+[Debug] [Info   :   BepInEx] Loading [QMMLoader 1.0]
+[Debug] [Info   :   BepInEx] Loading [BetterScannerBlips 1.0.3.0]
+[Debug] [Info   :   BepInEx] Loading [BlueprintTracker 1.1.3.0]
+[Debug] [Info   :   BepInEx] Loading [Drop Upgrades On Destroy 1.1.0.0]
+[Debug] [Info   :   BepInEx] Loading [SMLHelper 2.8.0.0]
+[Debug] [Info   :   BepInEx] Loading [ExtraOptions 0.0.3.0]
+[Debug] [Info   :   BepInEx] Loading [LargeDepositsFix 1.0.0.0]
+[Debug] [Info   :   BepInEx] Loading [Manage Creature Spawns 1.2.0.0]
+[Debug] [Info   :   BepInEx] Loading [SlotExtender 2.5.5.0]
+[Debug] [Info   :   BepInEx] Loading [SubnauticaMap 1.4.2.0]
+[Debug] [Info   :   BepInEx] Loading [Time Capsule Logger 1.0.3.0]
+[Debug] [Message:   BepInEx] Chainloader startup complete
+[Debug] UnloadTime: 0.478400 ms
+[Log] Initializing Steam services
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Debug] [QModManager:INFO] Detected game: Subnautica
+[Debug] [QModManager:INFO] Game Version: 65786 Build Date: 07-October-2020
+[Debug] [QModManager:INFO] Loading QModManager v4.0.1...
+[Debug] [QModManager:INFO] Today is 09-August-2020
+[Debug] [QModManager:INFO] Folder structure:
++ Subnautica
+|---+ 2017-06-17_092904
+|   |---- crash.dmp (212.34KB)
+|   |---- error.log (11.34KB)
+|   `---- output_log.txt (57.46KB)
+|---+ 2017-06-18_114428
+|   |---- crash.dmp (224.01KB)
+|   |---- error.log (8.67KB)
+|   `---- output_log.txt (57.66KB)
+|---+ 2017-12-26_183706
+|   |---- crash.dmp (231.23KB)
+|   |---- error.log (10.61KB)
+|   `---- output_log.txt (56.17KB)
+|---+ BepInEx
+|   |---+ cache
+|   |   |---- chainloader_typeloader.dat (346.00B)
+|   |   `---- qmodmanager_plugingenerator_typeloader.dat (2.26KB)
+|   |---+ config
+|   |   |---- BepInEx.cfg (4.41KB)
+|   |   `---- MirrorInternalLogs.cfg (505.00B)
+|   |---+ core
+|   |   |---- 0Harmony.dll (137.50KB)
+|   |   |---- 0Harmony.xml (160.23KB)
+|   |   |---- BepInEx.dll (105.50KB)
+|   |   |---- BepInEx.Harmony.dll (5.50KB)
+|   |   |---- BepInEx.Harmony.xml (3.96KB)
+|   |   |---- BepInEx.Preloader.dll (34.50KB)
+|   |   |---- BepInEx.Preloader.xml (6.37KB)
+|   |   |---- BepInEx.xml (67.18KB)
+|   |   |---- Mono.Cecil.dll (331.50KB)
+|   |   |---- Mono.Cecil.Mdb.dll (42.00KB)
+|   |   |---- Mono.Cecil.Pdb.dll (84.50KB)
+|   |   |---- Mono.Cecil.Rocks.dll (27.00KB)
+|   |   |---- MonoMod.RuntimeDetour.dll (86.00KB)
+|   |   |---- MonoMod.RuntimeDetour.xml (8.43KB)
+|   |   |---- MonoMod.Utils.dll (171.00KB)
+|   |   `---- MonoMod.Utils.xml (76.47KB)
+|   |---+ patchers
+|   |   |---+ QModManager
+|   |   |   |---- AssetsTools.NET.dll (148.00KB)
+|   |   |   |---- cldb.dat (325.90KB)
+|   |   |   |---- QModManager.exe (118.00KB)
+|   |   |   |---- QModManager.QMMHarmonyShimmer.dll (61.00KB)
+|   |   |   |---- QModManager.QModPluginGenerator.dll (14.50KB)
+|   |   |   |---- QModManager.UnityAudioFixer.dll (8.50KB)
+|   |   |   `---- QModManager.UnityAudioFixer.xml (2.41KB)
+|   |   `---- MirrorInternalLogs.dll (17.00KB)
+|   |---+ plugins
+|   |   |---+ QModManager
+|   |   |   |---- QModInstaller.dll (80.50KB)
+|   |   |   |---- QModInstaller.xml (27.70KB)
+|   |   |   |---- QModManager.QMMLoader.dll (6.50KB)
+|   |   |   `---- QModManager.QMMLoader.xml (503.00B)
+|   `---- LogOutput.log (0.00B)
+|---+ MonoBleedingEdge
+|   `---- (Folder content not shown)
+|---+ OST
+|   `---- (Folder content not shown)
+|---+ QMods
+|   |---+ .backups
+|   |   |---+ BetterScannerBlips
+|   |   |   `---- BetterScannerBlips.dll (54.50KB)
+|   |   |---+ BlueprintTracker
+|   |   |   `---- BlueprintTracker.dll (65.00KB)
+|   |   |---+ LargeDepositsFix
+|   |   |   `---- LargeDepositsFix.dll (6.00KB)
+|   |   |---+ ManageCreatureSpawns
+|   |   |   `---- ManageCreatureSpawns.dll (10.50KB)
+|   |   |---+ SlotExtender
+|   |   |   `---- SlotExtender.dll (74.00KB)
+|   |   |---+ SubnauticaMap
+|   |   |   `---- SubnauticaMap.dll (66.50KB)
+|   |   |---+ TimeCapsuleLogger
+|   |   |   `---- TimeCapsuleLogger.dll (8.00KB)
+|   |---+ BetterScannerBlips
+|   |   |---- BetterScannerBlips.dll (54.00KB)
+|   |   `---- mod.json (716.00B)
+|   |---+ BlueprintTracker
+|   |   |---+ Assets
+|   |   |   |---- pin_not_pinned.png (52.33KB)
+|   |   |   |---- pin_pinned.png (50.83KB)
+|   |   |   `---- remove_pin.png (52.94KB)
+|   |   |---- BlueprintTracker.dll (65.00KB)
+|   |   `---- mod.json (547.00B)
+|   |---+ DropUpgradesOnDestroy
+|   |   |---- DropUpgradesOnDestroy.dll (7.00KB)
+|   |   `---- mod.json (230.00B)
+|   |---+ ExtraOptions
+|   |   |---- config.json (116.00B)
+|   |   |---- ExtraOptions.dll (18.00KB)
+|   |   |---- ExtraOptions.log (111.00B)
+|   |   |---- mod.json (312.00B)
+|   |   `---- theme.json (414.00B)
+|   |---+ IgnoreMods
+|   |   |---+ ClearTheWater
+|   |   |   |---- ClearTheWater.dll (5.50KB)
+|   |   |   `---- mod.json (215.00B)
+|   |   |---+ MoreQuickSlots
+|   |   |   |---- mod.json (497.00B)
+|   |   |   `---- MoreQuickSlots.dll (54.00KB)
+|   |   |---+ MoreSeamothDepth
+|   |   |   |---- mod.json (247.00B)
+|   |   |   `---- MoreSeamothDepth.dll (9.00KB)
+|   |---+ LargeDepositsFix
+|   |   |---- LargeDepositsFix.dll (5.50KB)
+|   |   `---- mod.json (269.00B)
+|   |---+ ManageCreatureSpawns
+|   |   |---+ Properties
+|   |   |   `---- AssemblyInfo.cs (1.39KB)
+|   |   |---- List of creatures.txt (619.00B)
+|   |   |---- Main.cs (5.90KB)
+|   |   |---- ManageCreatureSpawns.csproj (3.78KB)
+|   |   |---- ManageCreatureSpawns.dll (10.50KB)
+|   |   |---- ManageCreatureSpawns.zip (6.44KB)
+|   |   |---- mod.json (320.00B)
+|   |   |---- Settings.xml (1.67KB)
+|   |   `---- SettingsManager.cs (1.49KB)
+|   |---+ Modding Helper
+|   |   |---+ CraftTreeTypeCache
+|   |   |   |---- CraftTreeTypeCache.txt (0.00B)
+|   |   |   `---- CraftTreeTypeDeactivatedCache.txt (0.00B)
+|   |   |---+ Language
+|   |   |   |---+ Originals
+|   |   |   |   `---- MoreSeamothDepth.txt (304.00B)
+|   |   |   |---+ Overrides
+|   |   |---+ PingTypeCache
+|   |   |   |---- PingTypeCache.txt (0.00B)
+|   |   |   `---- PingTypeDeactivatedCache.txt (0.00B)
+|   |   |---+ RestrictedIDs
+|   |   |---+ TechTypeCache
+|   |   |   |---- TechTypeCache.txt (0.00B)
+|   |   |   `---- TechTypeDeactivatedCache.txt (52.00B)
+|   |   |---- EnableDebugLogs.txt (5.00B)
+|   |   |---- ExtraItemInfo.txt (18.00B)
+|   |   |---- mod.json (212.00B)
+|   |   |---- SMLHelper.dll (163.50KB)
+|   |   `---- SMLHelper.xml (322.37KB)
+|   |---+ SlotExtender
+|   |   |---- config.txt (357.00B)
+|   |   |---- mod.json (326.00B)
+|   |   `---- SlotExtender.dll (74.00KB)
+|   |---+ SubnauticaMap
+|   |   |---+ maps
+|   |   |   |---+ example
+|   |   |   |   |---- example.json (74.00B)
+|   |   |   |   |---- example.png (245.52KB)
+|   |   |   |   |---- example_overlay.json (77.00B)
+|   |   |   |   |---- example_overlay.png (10.23KB)
+|   |   |   |   |---- example_replace_map.json (170.00B)
+|   |   |   |   `---- example_with_fog.json (85.00B)
+|   |   |---- mod.json (236.00B)
+|   |   |---- subnauticamap (5.55MB)
+|   |   `---- SubnauticaMap.dll (66.00KB)
+|   |---+ TimeCapsuleLogger
+|   |   |---- mod.json (267.00B)
+|   |   `---- TimeCapsuleLogger.dll (6.50KB)
+|   `---- Settings.xml (1.17KB)
+|---+ SNAppData
+|   `---- (Folder content not shown)
+|---+ Subnautica_Data
+|   `---- (Folder content not shown)
+|---+ _CommonRedist
+|   `---- (Folder content not shown)
+|---- doorstop_config.ini (367.00B)
+|---- monitor_log.txt (42.00B)
+|---- qmodmanager-config.json (2.00B)
+|---- qmodmanager_log-Subnautica.txt (3.74KB)
+|---- steam_api64.dll (201.91KB)
+|---- Subnautica.exe (636.50KB)
+|---- Subnautica32.exe (68.50KB)
+|---- SubnauticaMonitor.exe (8.00KB)
+|---- unins000.dat (33.78KB)
+|---- unins000.exe (2.57MB)
+|---- UnityCrashHandler64.exe (1.56MB)
+|---- UnityPlayer.dll (23.52MB)
+|---- winhttp.dll (20.00KB)
+[Debug] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Subnautica/Subnautica_Data/Mono/data-0000023CAF3CA4D0.dll
+[Debug] [QModManager:INFO] Started loading mods
+[Debug] [SMLHelper/Info] Enable debug logs set to: False
+[Debug] [SMLHelper/Info] Finished known CraftTreeType exclusion. 0 IDs were added in ban list.
+[Debug] [SMLHelper/Info] Loading v2.8.0.0 for Subnautica
+[Log] [ExtraOptions] [INFO] Harmony? 2.0.0.0
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] [ExtraOptions] [INFO] Unity? 2019.2.17f1
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] [ExtraOptions] [INFO] Product? Subnautica-65786
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] [ExtraOptions] [INFO] ExtraOptions-1.1.0.0
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Debug] [BetterScannerBlips] Patched
+[Debug] [ManageCreatureSpawns] Loading... v1.1.0.0
+[Debug] [ManageCreatureSpawns] HarmonyInstance created.
+[Debug] [ManageCreatureSpawns] Reading settings.
+[Debug] [QModManager:ERROR] Invoking the specified entry method "ApplyPatches" failed for mod "ManageCreatureSpawns"
+[Debug] [QModManager:ERROR] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: There is an error in XML document (49, 12). ---> System.Xml.XmlException: Unexpected end of file while parsing Comment has occurred. Line 49, position 12.
+  at System.Xml.XmlTextReaderImpl.Throw (System.Exception e) [0x00027] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.Throw (System.String res, System.String arg) [0x00029] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.ParseCDataOrComment (System.Xml.XmlNodeType type, System.Int32& outStartPos, System.Int32& outEndPos) [0x00022] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.ParseCDataOrComment (System.Xml.XmlNodeType type) [0x00070] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.ParseComment () [0x00026] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.ParseElementContent () [0x00094] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReaderImpl.Read () [0x00085] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlTextReader.Read () [0x00000] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.XmlReader.MoveToContent () [0x0003a] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderSettings.Read4_Settings (System.Boolean isNullable, System.Boolean checkType) [0x001c5] in <1296a777b10c4014a0b8fca6ca1a7574>:0 
+  at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderSettings.Read5_Settings () [0x00050] in <1296a777b10c4014a0b8fca6ca1a7574>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <567df3e0919241ba98db88bec4c6696f>:0 
+   --- End of inner exception stack trace ---
+  at System.Xml.Serialization.XmlSerializer.Deserialize (System.Xml.XmlReader xmlReader, System.String encodingStyle, System.Xml.Serialization.XmlDeserializationEvents events) [0x0011b] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.Serialization.XmlSerializer.Deserialize (System.Xml.XmlReader xmlReader, System.String encodingStyle) [0x00000] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at System.Xml.Serialization.XmlSerializer.Deserialize (System.IO.TextReader textReader) [0x0001c] in <1d98d70bb7d8453b80c25aa561fdecd1>:0 
+  at ManageCreatureSpawns.Patcher.ApplyPatches () [0x0007b] in <4cd9ccced39b49528d22878199c1c1d4>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <567df3e0919241ba98db88bec4c6696f>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at QModManager.Patching.QModPatchMethod.TryInvoke () [0x00034] in <a8608dda0bbd4d808e383d5e39dc5128>:0
+[Debug] [TimeCapsuleLogger] Start patching. Version: 1.0.3
+[Debug] [TimeCapsuleLogger] Patching complete.
+[Debug] [SubnauticaMap] Patched
+[Debug] [BlueprintTracker] Patched
+[Debug] [SlotExtender] Configuration loaded.
+[Debug] [SMLHelper/Info] Added 0 TechTypes succesfully into the game.
+[Debug] [SMLHelper/Info] Added 0 CraftTreeTypes succesfully into the game.
+[Debug] [SMLHelper/Info] Finished known PingType exclusion. 0 IDs were added in ban list.
+[Debug] [SMLHelper/Info] Added 0 PingTypes succesfully into the game.
+[Debug] [SMLHelper/Info] Extra item info set to: Mod name (default)
+[Debug] [QModManager:INFO] Finished loading QModManager. Loaded 9 mods.
+[Debug] [QModManager:ERROR] A total of 1 mods failed to load
+[Debug] [QModManager:WARN] Some mods are using an old version of harmony! This will NOT cause any problems, but it's not recommended:
+[Debug] - BetterScannerBlips (BetterScannerBlips)
+[Debug] - Time Capsule Logger (TimeCapsuleLogger)
+[Debug] - SubnauticaMap (SubnauticaMap)
+[Debug] - LargeDepositsFix (LargeDepositsFix)
+[Debug] - BlueprintTracker (BlueprintTracker)
+[Debug] - SlotExtender (SlotExtender)
+[Debug] [QModManager:ERROR] The following mods failed during patching:
+[Debug] - Manage Creature Spawns (ManageCreatureSpawns)
+[Debug] [SlotExtender] Configuration initialized.
+[Debug] [SlotExtender] Information: Enter 'seconfig' command in main menu for configuration window.
+[Debug] Object reference not set to an instance of an object
+[Debug] [QModManager:INFO] Received latest version from GitHub. We are up to date!
+[Debug] [BetterScannerBlips] Adding CustomBlip to blip prefab
+[Error] Material doesn't have a texture property '_MainTex'
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Shaders/Material.cpp Line: 1371)
+[Error] Material doesn't have a texture property '_MainTex'
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Shaders/Material.cpp Line: 1371)
+[Log] Loading game settings
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] Unloading asset bundle 'waterdisplacement' because it is no longer referenced
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] Process name: Subnautica
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] changeset 65786, QualityLevel = 0
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] OK Running Win64
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] Application version: 65786
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+[Log] SystemInfo: 
+ deviceModel = All Series (ASUS)
+ deviceName = DESKTOP-59LML2T
+ deviceType = Desktop
+ deviceUniqueIdentifier = df3bdb2e5d8dba34f3c5737c118313c6773331df
+ graphicsDeviceID = 26522
+ graphicsDeviceName = AMD Radeon HD 7900 Series
+ graphicsDeviceType = Direct3D11
+ graphicsDeviceVendor = ATI
+ graphicsDeviceVendorID = 4098
+ graphicsDeviceVersion = Direct3D 11.0 [level 11.1]
+ graphicsMemorySize = 3052
+ graphicsShaderLevel = 50
+ npotSupport = Full
+ maxTextureSize = 16384
+ operatingSystem = Windows 10  (10.0.0) 64bit
+ processorCount = 4
+ processorFrequency = 3406
+ processorType = Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+ supportedRenderTargetCount = 8
+ supports3DTextures = True
+ supportsAccelerometer = False
+ supportsComputeShaders = True
+ supportsGyroscope = False
+ supportsImageEffects = True
+ supportsInstancing = True
+ supportsLocationService = False
+ supportsRawShadowDepthSampling = True
+ supportsRenderTextures = True
+ supportsRenderToCubemap = True
+ supportsShadows = True
+ supportsSparseTextures = True
+ supportsStencil = 1
+ supportsVibration = False
+ systemMemorySize = 8126
+
+ 
+(Filename: C:\plastic_workspace_unity\Runtime/Export/Debug/Debug.bindings.h Line: 35)
